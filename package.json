@@ -101,7 +101,7 @@
     "@typescript-eslint/parser": "^3.8.0",
     "eslint": "^7.6.0",
     "glob": "^7.1.6",
-    "mocha": "^8.1.1",
+    "mocha": "^11.1.0",
     "typescript": "^3.9.7"
   }
 }
